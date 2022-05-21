@@ -1,0 +1,25 @@
+{
+  "name": "pscanner",
+  "version": "2.0.0",
+  "description": "Port Scanner 👀",
+  "main": "index.js",
+  "type": "commonjs",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pesarism/port-scanner.git"
+  },
+  "author": "Pesar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pesarism/port-scanner/issues"
+  },
+  "homepage": "https://github.com/pesarism/port-scanner#readme",
+  "keywords": [
+    "scan",
+    "scanner",
+    "portscanner",
+    "port",
+    "net",
+    "tcp"
+  ]
+}
